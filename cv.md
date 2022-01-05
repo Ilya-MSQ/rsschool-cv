@@ -36,7 +36,7 @@ Minsk Innovation University
 
 ---
 ### Language:
-* Belarus, Russian - Native
+* Belarusian, Russian - Native
 * English - B1
 
 
