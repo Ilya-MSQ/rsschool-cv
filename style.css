@@ -1,0 +1,18 @@
+<style>
+@keyframes color-change {
+  .black-white
+  0% {
+  color: #000000;
+  }
+  50% {
+  color: #ffffff;
+  }
+  100% {
+  color: #000000;
+  }
+}
+  .black-white {
+    animation: color-change 3s infinite;
+}
+</style>
+<p class="black-white">Создайте анимацию, меняющую цвет текста с чёрного на белый.</p>
