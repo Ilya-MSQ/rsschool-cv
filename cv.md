@@ -41,6 +41,5 @@ Minsk Innovation University
   
   
 ---
-# INIT CHANGES 
 
 
